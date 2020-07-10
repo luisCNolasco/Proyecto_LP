@@ -1,0 +1,55 @@
+/* buscar solicitud de requerimiento */
+
+html,
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  height: 100%;
+}
+
+#contenedor {
+    height: inherit;
+}
+
+main {
+  display: flex;
+  height: inherit;
+}
+
+#contenedor-datosUsuario {
+  width: 25%;
+  background-color: rgb(52, 58, 64);
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  height: 100%;  
+}
+    #contenedor-datosUsuario h2 {
+    text-align: center;
+    color: white;
+    }
+    #contenedor-datosUsuario img {
+    width: 80%;
+    height: 160px;
+    margin-bottom: 25px;
+    }
+
+#navegacion-paginas {
+  width: 75%;
+  
+}
+  
+    #contenedorPagina {
+    width: 100%;
+    padding: 20px;
+
+    }
+
+/*buscarSolicitudRequerimiento.html*/
+#botones {
+  display: flex;
+  justify-content: flex-end;
+}
+
