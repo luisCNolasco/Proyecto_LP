@@ -17,6 +17,5 @@ public class Area {
 	public void setNombre(String nombre) {
 		this.nombre = nombre;
 	}
-	
-	//Este es un comentario
+
 }
