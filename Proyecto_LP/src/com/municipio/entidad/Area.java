@@ -18,5 +18,5 @@ public class Area {
 		this.nombre = nombre;
 	}
 	
-	
+	//Este es un comentario
 }
